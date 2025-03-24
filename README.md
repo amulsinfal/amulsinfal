@@ -6,7 +6,7 @@ ISTQB Certified Tester with extensive experience in manual and automation testin
 <img align="right" alt="Coding" width="280" src="https://github.com/amulsinfal/amulsinfal/blob/main/images/focus-animation.gif" > <br/>
 
 - 🔭 I’m currently focusing on **Improving Automation skills**.<br/>
-- 👯 I’m looking to collaborate on **Selenium Webdriver, Core Java, Postman, Manual Testing**.<br/>
+- 👯 I’m looking to collaborate on **Selenium, Java, Postman, Manual Testing**.<br/>
 - 💬 Ask me about **Manual Testing, Selenium, Java, TestNG, Postman**.<br/>
 <!-- - 👨‍💻 All of my projects are available at **[https://github.com/amulsinfal](https://github.com/amulsinfal)**<br/>-->
 - 📫 How to reach me: **amulsinfal@gmail.com**<br/>
