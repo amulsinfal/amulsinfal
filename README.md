@@ -15,6 +15,7 @@ ISTQB Certified Tester with experience in manual and automation testing for web-
 <h3 align="left">🧰 Languages and Tools:</h3>
 <img align="left" alt="Java" width="40px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"/>
 <img align="left" alt="Selenium" width="40px" style="padding-right:10px;" src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" />
+<img align="left" alt="Cucumber" width="40px" style="padding-right:10px;" src="https://vectorwiki.com/images/PepxA__cucumber.svg"/>
 <img align="left" alt="Postman" width="40px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" />
 <img align="left" alt="Git" width="40px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />
 <img align="left" alt="GitHub" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
@@ -27,9 +28,10 @@ ISTQB Certified Tester with experience in manual and automation testing for web-
 		<ul>
 			<li><h4>Web Automation</h4></li>
 			<ul style="list-style-type:circle">
-				<li> <a href="https://github.com/amulsinfal/Hybrid-Framework-for-Automation-of-www.demo.Guru99Bank.com-v4-website">Hybrid Framework for Selenium Automation using Selenium webdriver and Java</a> </li>
-				<li> <a href="https://github.com/amulsinfal/Automated-test-cases-using-selenium-java-www.automationexercise.com">Automating testcases using Selenium webdriver and Java</a> </li>
-				<li> <a href="https://github.com/amulsinfal/TestNG-testing-framework-using-selenium-api">TestNG Automation Framework using Selenium webdriver and Java</a> </li>
+				<li> <a href="https://github.com/amulsinfal/opencart-cucumber-bdd-automation-framework">Cucumber BDD Automation Framework - Opencart website, a demo ecommerce website</a> </li>
+				<li> <a href="https://github.com/amulsinfal/Hybrid-Framework-for-Automation-of-www.demo.Guru99Bank.com-v4-website">Web UI Automation Framework using Selenium webdriver and Core Java - Guru99Bank website, a fictional banking website. </a> </li>
+				<li> <a href="https://github.com/amulsinfal/TestNG-testing-framework-using-selenium-api">TestNG Testing Framework Project using Selenium webdriver and Java - www.Saucedemo.com, a fictional ecommerce website.</a> </li>
+				<li> <a href="https://github.com/amulsinfal/Automated-test-cases-using-selenium-java-www.automationexercise.com">Automation Scripts using Selenium webdriver and Java - www.automationexercise.com, a fictional ecommerce website. </a> </li>
 			</ul>
 		</ul>
 		<ul>
