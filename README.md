@@ -21,7 +21,6 @@ ISTQB Certified Tester with experience in manual and automation testing for web-
 <img align="left" alt="Git" width="40px" style="padding-right:10px;" src="https://github.com/amulsinfal/amulsinfal/blob/main/images/git-original.svg" />
 <img align="left" alt="GitHub" width="40px" style="padding-right:10px;" src="https://github.com/amulsinfal/amulsinfal/blob/main/images/github-original.svg" />
 <img align="left" alt="Eclipse" width="40px" style="padding-right:10px;" src="https://github.com/amulsinfal/amulsinfal/blob/main/images/eclipse-original.svg" />
-<img align="left" alt="Windows" width="40px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg">
 <br />
 
 #
