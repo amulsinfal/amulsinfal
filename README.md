@@ -1,5 +1,6 @@
 <h2><p align="center">Hi there 👋, I am AMUL SINFAL</p></h2>
-<p align="left"> <img src="https://github.com/amulsinfal/amulsinfal/blob/main/AboutBanner.png" alt="amulsinfal" /> </p>
+<!--<p align="left"> <img src="https://github.com/amulsinfal/amulsinfal/blob/main/AboutBanner.png" alt="amulsinfal" /> </p> -->
+<p align="left"><img src="https://github.com/amulsinfal/amulsinfal/blob/main/AboutBanner.png" alt="amulsinfal"/></p>
 ISTQB Certified Tester with experience in manual and automation testing for web-based and Windows applications. Proficient in Agile and Waterfall methodologies, excelling in the Software Testing Lifecycle from requirement gathering and test planning to execution and bug reporting. Specialized in Black Box, Integration, Regression, GUI, and Exploratory Testing, transforming business requirements into precise functional specifications to ensure high-quality software delivery.
 <img align="right" alt="Coding" width="270" src="https://github.com/amulsinfal/amulsinfal/blob/main/focus-animation.gif" > <br/>
 
