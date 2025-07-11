@@ -4,7 +4,7 @@
 ISTQB Certified Tester with experience in manual and automation testing for web-based and Windows applications. Proficient in Agile and Waterfall methodologies, excelling in the Software Testing Lifecycle from requirement gathering and test planning to execution and bug reporting. Specialized in Black Box, Integration, Regression, GUI, and Exploratory Testing, transforming business requirements into precise functional specifications to ensure high-quality software delivery.
 <img align="right" alt="Coding" width="270" src="https://github.com/amulsinfal/amulsinfal/blob/main/focus-animation.gif" > <br/>
 
-- 🔭 I’m currently focusing on **Improving my Test Automation skills**.<br/>
+- 🔭 I’m currently focusing on **my Test Automation skills**.<br/>
 - 🌱 I’m currently learning **Automation API Testing**, **Playwright** and **Cypress**<br/>
 - 👯 I’m looking to collaborate on **Manual Testing, Automation Testing**.<br/>
 - 💬 Ask me about **Manual Testing, Selenium Webdriver, Java, TestNG, Postman**.<br/>
