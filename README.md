@@ -38,6 +38,7 @@ ISTQB Certified Tester with experience in manual and automation testing for web-
 <ul>
 <li><h4>API Testing</h4></li>
 <ul style="list-style-type:circle">
+<li> Restful Booker API testing Project using Postman. <a href="https://github.com/amulsinfal/Restful_Booker_API_testing">[Github Repository]</a> </li>  
 <li> API testing Project using Postman. <a href="https://github.com/amulsinfal/postman_api_testing_collections">[Github Repository]</a> </li>
 </ul>	
 </ul>
