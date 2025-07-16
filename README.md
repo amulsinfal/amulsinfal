@@ -47,8 +47,9 @@ ISTQB Certified Tester with experience in manual and automation testing for web-
 <h4>🔭 AUTOMATION SCRIPTS - SNIPPITS</h4>
 <ul>
   <ul style="list-style-type:circle">
-        <li> Waiting strategy in selenium webdriver (Selenium | Java | TestNG). <a href="https://github.com/amulsinfal/selenium-automation-implementing-selenium-explicit-and-implicit-wait">[Github Repository]</a> </li>
-        <li> Reading data from Properties file (Selenium | Java | TestNG). <a href="https://github.com/amulsinfal/selenium-automation-reading-data-from-properties-file">[Github Repository]</a> </li>
+        <li> Waiting strategy in selenium automation framework (Selenium | Java | TestNG | Eclipse). <a href="https://github.com/amulsinfal/selenium-automation-implementing-selenium-explicit-and-implicit-wait">[Github Repository]</a> </li>
+        <li> Reading data from Properties file in selenium automation framework (Selenium | Java | TestNG | Eclipse). <a href="https://github.com/amulsinfal/selenium-automation-reading-data-from-properties-file">[Github Repository]</a> </li>
+        <li> Logging using Log4j2 in selenium automation framework (Selenium | Java | TestNG | Eclipse). <a href=https://github.com/amulsinfal/selenium-automation-logging-using-log4j2">[Github Repository]</a> </li>
   </ul>
 </ul>
 </article>
