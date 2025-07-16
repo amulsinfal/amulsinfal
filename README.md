@@ -25,21 +25,30 @@ ISTQB Certified Tester with experience in manual and automation testing for web-
 
 #
 <article>
-<h3>🔭 Automation Projects: </h3>
+<h3>🔭 AUTOMATION FRAMEWORK PROJECTS: </h3>
+  <ul>
+  <li><h4>WEB UI FRAMEWORK PROJECTS</h4></li>
+    <ul style="list-style-type:circle">
+      <li> Web UI Hybrid Automation Framework (Selenium | Java | TestNG | POM). <a href="https://github.com/amulsinfal/Hybrid-selenium-automation-framework-automationexercise.com">[Github Repository]</a> </li>
+      <li> Cucumber BDD Automation Framework (Cucumber | BDD | Java). <a href="https://github.com/amulsinfal/cucumber-bdd-framework-saucedemo.com">[Github Repository]</a> </li>
+      <li> TestNG Testing Framework Project (TestNG | Selenium | Java). <a href="https://github.com/amulsinfal/TestNG-testing-framework-using-selenium-api">[Github Repository]</a> </li>
+      <li> Automation Scripts using Selenium webdriver and Java. <a href="https://github.com/amulsinfal/Automated-test-cases-using-selenium-java-www.automationexercise.com">[Github Repository]</a> </li>
+    </ul>
+  </ul>
+  <ul>
+  <li><h4>API TESTING PROJECTS </h4></li>
+    <ul style="list-style-type:circle">
+      <li> Restful Booker API testing Project using Postman. <a href="https://github.com/amulsinfal/Restful_Booker_API_testing">[Github Repository]</a> </li>  
+      <li> API testing Project using Postman. <a href="https://github.com/amulsinfal/postman_api_testing_collections">[Github Repository]</a> </li>
+    </ul>	
+  </ul>
+</article>
+
+<article>
+<h4>🔭 AUTOMATION SCRIPTS - SNIPPITS</h4>
 <ul>
-<li><h4>Web Automation</h4></li>
-<ul style="list-style-type:circle">
-<li> Web UI Hybrid Automation Framework (Selenium | Java | TestNG | POM). <a href="https://github.com/amulsinfal/Hybrid-selenium-automation-framework-automationexercise.com">[Github Repository]</a> </li>
-<li> Cucumber BDD Automation Framework (Cucumber | BDD | Java). <a href="https://github.com/amulsinfal/cucumber-bdd-framework-saucedemo.com">[Github Repository]</a> </li>
-<li> TestNG Testing Framework Project (TestNG | Selenium | Java). <a href="https://github.com/amulsinfal/TestNG-testing-framework-using-selenium-api">[Github Repository]</a> </li>
-<li> Automation Scripts using Selenium webdriver and Java. <a href="https://github.com/amulsinfal/Automated-test-cases-using-selenium-java-www.automationexercise.com">[Github Repository]</a> </li>
-</ul>
-</ul>
-<ul>
-<li><h4>API Testing</h4></li>
-<ul style="list-style-type:circle">
-<li> Restful Booker API testing Project using Postman. <a href="https://github.com/amulsinfal/Restful_Booker_API_testing">[Github Repository]</a> </li>  
-<li> API testing Project using Postman. <a href="https://github.com/amulsinfal/postman_api_testing_collections">[Github Repository]</a> </li>
-</ul>	
+  <ul style="list-style-type:circle">
+    <li> Reading data from Properties file (Selenium | Java | TestNG). <a href="https://github.com/amulsinfal/selenium-automation-reading-data-from-properties-file">[Github Repository]</a> </li>
+  </ul>
 </ul>
 </article>
