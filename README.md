@@ -17,7 +17,6 @@ ISTQB Certified Tester with experience in manual and automation testing for web-
 <img align="left" alt="TestNG" width="40px" style="padding-right:10px;" src="https://github.com/amulsinfal/amulsinfal/blob/main/images/testng-icon.png?raw=true"/>
 <img align="left" alt="Cucumber" width="40px" style="padding-right:10px;" src="https://github.com/amulsinfal/amulsinfal/blob/main/images/cucumber-plain.svg"/>
 <img align="left" alt="Postman" width="40px" style="padding-right:10px;" src="https://github.com/amulsinfal/amulsinfal/blob/main/images/postman-original.svg"/> 
-<img align="left" alt="Jenkins" width="40px" style="padding-right:10px;" src="https://github.com/amulsinfal/amulsinfal/blob/main/images/jenkins-original.svg" />
 <img align="left" alt="Git" width="40px" style="padding-right:10px;" src="https://github.com/amulsinfal/amulsinfal/blob/main/images/git-original.svg" />
 <img align="left" alt="GitHub" width="40px" style="padding-right:10px;" src="https://github.com/amulsinfal/amulsinfal/blob/main/images/github-original.svg" />
 <img align="left" alt="Eclipse" width="40px" style="padding-right:10px;" src="https://github.com/amulsinfal/amulsinfal/blob/main/images/eclipse-original.svg" />
