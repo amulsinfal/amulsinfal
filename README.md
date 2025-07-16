@@ -47,7 +47,8 @@ ISTQB Certified Tester with experience in manual and automation testing for web-
 <h4>🔭 AUTOMATION SCRIPTS - SNIPPITS</h4>
 <ul>
   <ul style="list-style-type:circle">
-    <li> Reading data from Properties file (Selenium | Java | TestNG). <a href="https://github.com/amulsinfal/selenium-automation-reading-data-from-properties-file">[Github Repository]</a> </li>
+        <li> Waiting strategy in selenium webdriver (Selenium | Java | TestNG). <a href="https://github.com/amulsinfal/selenium-automation-implementing-selenium-explicit-and-implicit-wait">[Github Repository]</a> </li>
+        <li> Reading data from Properties file (Selenium | Java | TestNG). <a href="https://github.com/amulsinfal/selenium-automation-reading-data-from-properties-file">[Github Repository]</a> </li>
   </ul>
 </ul>
 </article>
