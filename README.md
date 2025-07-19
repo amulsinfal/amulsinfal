@@ -44,14 +44,12 @@ ISTQB Certified Tester with experience in manual and automation testing for web-
 </article>
 
 <article>
-<h4>🔭 AUTOMATION SCRIPTS - SNIPPITS</h4>
-<ul>
+<h3>🔭 Automation Framework Scripts </h3>
   <ul style="list-style-type:circle">
-        <li> <b>Waiting strategy</b> in selenium automation framework (Selenium | Java | TestNG). <a href="https://github.com/amulsinfal/selenium-automation-implementing-selenium-explicit-and-implicit-wait">[Github Repository]</a> </li>
-        <li> <b>Properties file</b> for reading data in selenium automation framework (Selenium | Java | TestNG). <a href="https://github.com/amulsinfal/selenium-automation-reading-data-from-properties-file">[Github Repository]</a> </li>
-        <li> <b>Log4j2</b> for logging in selenium automation framework (Selenium | Java | TestNG | Log4j2). <a href="https://github.com/amulsinfal/selenium-automation-logging-using-log4j2">[Github Repository]</a> </li>
-        <li> <b>ITestListener</b> for reporting in selenium automation framework (Selenium | Java | TestNG). <a href="https://github.com/amulsinfal/selenium-automation-ITestListener-integration">[Github Repository]</a> </li>
-        <li> <b>ExtentReports</b> for reporting in selenium automation framework (Selenium | Java | TestNG | ExtentReports). <a href="https://github.com/amulsinfal/selenium-automation-generating-reports-using-extentreports">[Github Repository]</a> </li>
+        <li> <b>Waiting strategy</b> in selenium automation framework (Java | TestNG). <a href="https://github.com/amulsinfal/selenium-automation-implementing-selenium-explicit-and-implicit-wait">[Github Repository]</a> </li>
+        <li> <b>Properties file</b> for reading data in selenium automation framework (Java | TestNG). <a href="https://github.com/amulsinfal/selenium-automation-reading-data-from-properties-file">[Github Repository]</a> </li>
+        <li> <b>Log4j2</b> for logging in selenium automation framework (Java | TestNG | Log4j2). <a href="https://github.com/amulsinfal/selenium-automation-logging-using-log4j2">[Github Repository]</a> </li>
+        <li> <b>ITestListener</b> for reporting in selenium automation framework (Java | TestNG). <a href="https://github.com/amulsinfal/selenium-automation-ITestListener-integration">[Github Repository]</a> </li>
+        <li> <b>ExtentReports</b> for reporting in selenium automation framework (Java | TestNG | ExtentReports). <a href="https://github.com/amulsinfal/selenium-automation-generating-reports-using-extentreports">[Github Repository]</a> </li>
   </ul>
-</ul>
 </article>
