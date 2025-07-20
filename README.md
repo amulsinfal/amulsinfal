@@ -1,14 +1,13 @@
 <h2><p align="center">Hi there 👋, I am AMUL SINFAL</p></h2>
-<!--<p align="left"> <img src="https://github.com/amulsinfal/amulsinfal/blob/main/AboutBanner.png" alt="amulsinfal" /> </p> -->
 <p align="left"><img src="https://github.com/amulsinfal/amulsinfal/blob/main/AboutBanner.png" alt="amulsinfal"/></p>
-ISTQB Certified Tester with experience in manual and automation testing for web-based and Windows applications. Proficient in Agile and Waterfall methodologies, excelling in the Software Testing Lifecycle from requirement gathering and test planning to execution and bug reporting. Specialized in Black Box, Integration, Regression, GUI, and Exploratory Testing, transforming business requirements into precise functional specifications to ensure high-quality software delivery.
-<img align="right" alt="Coding" width="270" src="https://github.com/amulsinfal/amulsinfal/blob/main/focus-animation.gif" > <br/>
+ISTQB Certified Tester with strong expertise in manual testing and good experience in automation testing on Selenium WebDriver and Core Java. I have a good knowlegde about Hybrid Automation framework and experience in API testing using Postman. My experience includes working with Agile methodologies, collaborating with cross-functional teams to ensure software quality by identifying defects, validating functionality, and contributing to test planning for seamless software delivery.</p>
 
+<img align="right" alt="Coding" width="270" src="https://github.com/amulsinfal/amulsinfal/blob/main/focus-animation.gif" > <br/>
 - 🔭 I’m currently focusing on **my Test Automation skills**.<br/>
-- 🌱 I’m currently learning **Automation API Testing**, **Playwright** and **Cypress**<br/>
-- 👯 I’m looking to collaborate on **Manual Testing, Automation Testing**.<br/>
-- 💬 Ask me about **Manual Testing, Selenium Webdriver, Java, TestNG, Postman**.<br/>
-- 👨‍💻 All of my projects are available at **[https://github.com/amulsinfal](https://github.com/amulsinfal)**<br/>
+- 🌱 I’m currently learning **API Automation Testing**, **Playwright** and **Cypress**<br/>
+- 👯 I’m looking to collaborate on **Manual Testing**, **Automation Testing**.<br/>
+- 💬 Ask me about **Manual Testing, Selenium Webdriver**, **Java**, **TestNG**, **Postman**.<br/>
+- 👨‍💻 All of my projects are available at [My Repositories](https://github.com/amulsinfal?tab=repositories)<br/>
 
 #
 <h3 align="left">🧰 Languages and Tools:</h3>
@@ -49,7 +48,5 @@ ISTQB Certified Tester with experience in manual and automation testing for web-
         <li> <b>Waiting strategy</b> in selenium automation framework. <a href="https://github.com/amulsinfal/selenium-automation-implementing-selenium-explicit-and-implicit-wait">[Github Repository]</a> </li>
         <li> <b>Properties file</b> for reading data in selenium automation framework. <a href="https://github.com/amulsinfal/selenium-automation-reading-data-from-properties-file">[Github Repository]</a> </li>
         <li> <b>Log4j2</b> for logging in selenium automation framework. <a href="https://github.com/amulsinfal/selenium-automation-logging-using-log4j2">[Github Repository]</a> </li>
-        <li> <b>ITestListener</b> for reporting in selenium automation framework. <a href="https://github.com/amulsinfal/selenium-automation-ITestListener-integration">[Github Repository]</a> </li>
-        <li> <b>ExtentReports</b> for reporting in selenium automation framework. <a href="https://github.com/amulsinfal/selenium-automation-generating-reports-using-extentreports">[Github Repository]</a> </li>
   </ul>
 </article>
