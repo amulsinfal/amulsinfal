@@ -5,7 +5,7 @@
   <!-- Software Tester with a strong foundation in manual testing and aspiring Automation Tester with hands-on experience in Selenium WebDriver.-->
 </p>
 
-<img align="right" alt="Coding" width="270" src="https://github.com/amulsinfal/amulsinfal/blob/main/focus-animation.gif" > <br/>
+<img align="right" alt="Coding" width="270" src="https://github.com/amulsinfal/amulsinfal/blob/main/focus-animation.gif" >
 
 🔭 Currently focusing on **Improving my test automation skills**.<br/>
 🌱 Currently learning **API Automation Testing**, **Playwright** and **Cypress**.<br/>
