@@ -2,15 +2,12 @@
 
 <p align="center"><b>ISTQB Certified Software Tester</b> | <b>Manual & Automation Tester</b><br>Software Tester with experience in manual testing and aspiring Automation Tester with hands-on experience in Selenium WebDriver.</p>
 <h1></h1>
-
-<img align="right" alt="Coding" width="250" src="https://github.com/amulsinfal/amulsinfal/blob/main/focus-animation.gif" >  <br><br>
-
+<img align="right" alt="Coding" width="200" src="https://github.com/amulsinfal/amulsinfal/blob/main/focus-animation.gif" ><br>
 🔭 Currently focusing on **Improving my test automation skills**.  <br/>
 🌱 Currently learning **API Automation Testing**, **Playwright** and **Cypress**.  <br/>
 👯 Looking to collaborate on **API Testing, Automation Testing, Selenium**.  <br/>
 💬 Ask me about **Manual Testing, Selenium, Java, TestNG, Postman**.  <br/>
 👨‍💻 My projects are available at **[https://github.com/amulsinfal](https://github.com/amulsinfal)** <br/>
-
 
 ---
 
