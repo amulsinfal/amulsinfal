@@ -10,22 +10,24 @@
 💬 Ask me about **Manual Testing, Selenium, Java, TestNG, Postman**.  <br/>
 👨‍💻 My projects are available at **[https://github.com/amulsinfal](https://github.com/amulsinfal)** <br/>
 
----
+<h1></h1>
 
-## 🧰 Tech Stack
+## 💻 Tech Stack:
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
-  <img src="https://img.shields.io/badge/TestNG-%23FF6F00?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" />
-</p>
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Selenium](https://img.shields.io/badge/-selenium-D51007?style=for-the-badge&logo=selenium&logoColor=white)
+![TestNG](https://img.shields.io/badge/-testng-%23FF6F00?style=for-the-badge&logo=testng&logoColor=white)
+![Cucumber](https://img.shields.io/badge/Cucumber-%232EAD33?style=for-the-badge&logo=cucumber&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=Eclipse&logoColor=white)
 
----
+<h1></h1>
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/amulsinfal)
+
+<h1></h1>
 
 ## 🧪 Automation Projects
 
@@ -46,4 +48,4 @@
 - <b>ITestListener</b> for event reporting in selenium automation framework. <a href="https://github.com/amulsinfal/selenium-automation-ITestListener-integration">[Github Repository]</a>
 - <b>ExtentReports</b> for HTML reporting in selenium automation framework. <a href="https://github.com/amulsinfal/selenium-automation-generating-reports-using-extentreports">[Github Repository]</a>
 
----
+<h1></h1>
