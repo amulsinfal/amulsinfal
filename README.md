@@ -2,10 +2,8 @@
 
 <p align="center">
   <b>ISTQB Certified Software Tester</b> | <b>Manual & Automation Tester</b><br>
-  Software Tester with a strong foundation in manual testing and aspiring Automation Tester with hands-on experience in Selenium WebDriver.
+  <!-- Software Tester with a strong foundation in manual testing and aspiring Automation Tester with hands-on experience in Selenium WebDriver.-->
 </p>
-
----
 
 <img align="right" alt="Coding" width="270" src="https://github.com/amulsinfal/amulsinfal/blob/main/focus-animation.gif" > <br/>
 
