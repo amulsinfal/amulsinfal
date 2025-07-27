@@ -1,18 +1,16 @@
 <h1 align="center">👋 Hi, I'm Amul Sinfal</h1>
 
-<p align="center">
-  <b>ISTQB Certified Software Tester</b> | <b>Manual & Automation Tester</b><br>
-  <!-- Software Tester with a strong foundation in manual testing and aspiring Automation Tester with hands-on experience in Selenium WebDriver.-->
-</p>
+<p align="center"><b>ISTQB Certified Software Tester</b> | <b>Manual & Automation Tester</b><br>Software Tester with experience in manual testing and aspiring Automation Tester with hands-on experience in Selenium WebDriver.</p>
+<h1></h1>
 
-<img align="right" alt="Coding" width="270" src="https://github.com/amulsinfal/amulsinfal/blob/main/focus-animation.gif" >  <br>
+<img align="right" alt="Coding" width="250" src="https://github.com/amulsinfal/amulsinfal/blob/main/focus-animation.gif" >  <br><br>
 
-<br>
-🔭 Currently focusing on **Improving my test automation skills**.<br/>
-🌱 Currently learning **API Automation Testing**, **Playwright** and **Cypress**.<br/>
-👯 Looking to collaborate on **API Testing, Automation Testing, Selenium**.<br/>
-💬 Ask me about **Manual Testing, Selenium, Java, TestNG, Postman**.<br/>
-👨‍💻 My projects are available at **[https://github.com/amulsinfal](https://github.com/amulsinfal)**<br/>
+🔭 Currently focusing on **Improving my test automation skills**.  <br/>
+🌱 Currently learning **API Automation Testing**, **Playwright** and **Cypress**.  <br/>
+👯 Looking to collaborate on **API Testing, Automation Testing, Selenium**.  <br/>
+💬 Ask me about **Manual Testing, Selenium, Java, TestNG, Postman**.  <br/>
+👨‍💻 My projects are available at **[https://github.com/amulsinfal](https://github.com/amulsinfal)** <br/>
+
 
 ---
 
