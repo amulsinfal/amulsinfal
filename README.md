@@ -31,15 +31,17 @@
 
 ## 🧪 Automation Projects
 
-### 🖥️ Web UI Frameworks
-🔸 Web UI Hybrid Automation Framework (Selenium | Java | TestNG | POM). <a href="https://github.com/amulsinfal/Hybrid-selenium-automation-framework-automationexercise.com">[Github Repository]</a>  
-🔸 Cucumber BDD Automation Framework (Cucumber | BDD | Java). <a href="https://github.com/amulsinfal/cucumber-bdd-framework-saucedemo.com">[Github Repository]</a>  
-🔸 TestNG Testing Framework Project (TestNG | Selenium | Java). <a href="https://github.com/amulsinfal/TestNG-testing-framework-using-selenium-api">[Github Repository]</a>  
-🔸 Automation Scripts using Selenium webdriver and Java. <a href="https://github.com/amulsinfal/Automated-test-cases-using-selenium-java-www.automationexercise.com">[Github Repository]</a>  
+### 💻 Web UI Frameworks
+- Web UI Hybrid Automation Framework (Selenium | Java | TestNG | POM). <a href="https://github.com/amulsinfal/Hybrid-selenium-automation-framework-automationexercise.com">[Github Repository]</a>  
+- Cucumber BDD Automation Framework (Cucumber | BDD | Java). <a href="https://github.com/amulsinfal/cucumber-bdd-framework-saucedemo.com">[Github Repository]</a>  
+- TestNG Testing Framework Project (TestNG | Selenium | Java). <a href="https://github.com/amulsinfal/TestNG-testing-framework-using-selenium-api">[Github Repository]</a>  
+
+### 💻 Selenium Webdriver Scripts/Programs
+- Automation Scripts using Selenium webdriver and Java. <a href="https://github.com/amulsinfal/Automated-test-cases-using-selenium-java-www.automationexercise.com">[Github Repository]</a>  
 
 ### 🔌 API Testing
-🔹 Restful Booker API testing Project using Postman. <a href="https://github.com/amulsinfal/Restful_Booker_API_testing">[Github Repository]</a>  
-🔹 API testing Project using Postman. <a href="https://github.com/amulsinfal/postman_api_testing_collections">[Github Repository]</a>  
+- Restful Booker API testing Project using Postman. <a href="https://github.com/amulsinfal/Restful_Booker_API_testing">[Github Repository]</a>  
+- API testing Project using Postman. <a href="https://github.com/amulsinfal/postman_api_testing_collections">[Github Repository]</a>  
 
 ### ⚙️ Automation Framework Utilities
 - <b>Waiting strategy</b> in selenium automation framework. <a href="https://github.com/amulsinfal/selenium-automation-implementing-selenium-explicit-and-implicit-wait">[Github Repository]</a>
