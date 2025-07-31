@@ -50,5 +50,6 @@
 - <b>ITestListener</b> for event reporting in selenium automation framework. <a href="https://github.com/amulsinfal/selenium-automation-ITestListener-integration">[Github Repository]</a>
 - <b>ExtentReports</b> for HTML reporting in selenium automation framework. <a href="https://github.com/amulsinfal/selenium-automation-generating-reports-using-extentreports">[Github Repository]</a>
 - <b>IRetryAnalyzer</b> for retrying failed tests in selenium automation framework. <a href="https://github.com/amulsinfal/selenium-automation-rerun-failing-test-using-iretryanalyzer">[Github Repository]</a>
+- <b>DataProvider</b> for reading the data in selenium automation framework.
 
 <h1></h1>
