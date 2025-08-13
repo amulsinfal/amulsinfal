@@ -36,13 +36,6 @@
 - Cucumber BDD Automation Framework (Cucumber | BDD | Java). <a href="https://github.com/amulsinfal/cucumber-bdd-framework-saucedemo.com">[Github Repository]</a>  
 - TestNG Testing Framework Project (TestNG | Selenium | Java). <a href="https://github.com/amulsinfal/TestNG-testing-framework-using-selenium-api">[Github Repository]</a>  
 
-### 💻 Selenium Webdriver Scripts/Programs
-- Automation Scripts using Selenium webdriver and Java. <a href="https://github.com/amulsinfal/Automated-test-cases-using-selenium-java-www.automationexercise.com">[Github Repository]</a>  
-
-### 🔌 API Testing
-- Restful Booker API testing Project using Postman. <a href="https://github.com/amulsinfal/Restful_Booker_API_testing">[Github Repository]</a>  
-- API testing Project using Postman. <a href="https://github.com/amulsinfal/postman_api_testing_collections">[Github Repository]</a>  
-
 ### ⚙️ Automation Framework Utilities
 - <b>Waiting strategy</b> in selenium automation framework. <a href="https://github.com/amulsinfal/selenium-automation-implementing-selenium-explicit-and-implicit-wait">[Github Repository]</a>
 - <b>Properties file</b> for reading data in selenium automation framework. <a href="https://github.com/amulsinfal/selenium-automation-reading-data-from-properties-file">[Github Repository]</a>
@@ -51,5 +44,13 @@
 - <b>ExtentReports</b> for HTML reporting in selenium automation framework. <a href="https://github.com/amulsinfal/selenium-automation-generating-reports-using-extentreports">[Github Repository]</a>
 - <b>IRetryAnalyzer</b> for retrying failed tests in selenium automation framework. <a href="https://github.com/amulsinfal/selenium-automation-rerun-failing-test-using-iretryanalyzer">[Github Repository]</a>
 - <b>DataProvider</b> for reading the data in selenium automation framework. <a href="https://github.com/amulsinfal/selenium-automation-reading-data-using-dataproviders">[Github Repository]</a>
+
+### 🔌 API Testing
+- Restful Booker API testing Project using Postman. <a href="https://github.com/amulsinfal/Restful_Booker_API_testing">[Github Repository]</a>  
+- API testing Project using Postman. <a href="https://github.com/amulsinfal/postman_api_testing_collections">[Github Repository]</a>  
+
+### 💻 Selenium Webdriver Scripts/Programs
+- Automation Test Scripts using Selenium webdriver and Java. <a href="https://github.com/amulsinfal/Automated-test-cases-using-selenium-java-www.automationexercise.com">[Github Repository]</a>  
+- Selenium webdriver programs in Java. <a href="https://github.com/amulsinfal/selenium-webdriver-programs">[Github Repository]</a>
 
 <h1></h1>
